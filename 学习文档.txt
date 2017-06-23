@@ -9,5 +9,6 @@
 
 
 
-MyBatis:
+框架:
 1：mybatis的一级、二级缓存（）。
+2：hibernate的一级、二级缓存（说明）。
