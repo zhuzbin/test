@@ -11,4 +11,4 @@
 
 框架:
 1：mybatis的一级、二级缓存（）。
-2：hibernate的一级、二级缓存（说明）。
+2：hibernate的一级、二级缓存（说明http://www.360doc.com/content/14/0801/16/1073512_398635409.shtml）。
