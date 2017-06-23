@@ -3,4 +3,4 @@
 3：java集合类，做一下介绍。
 4：hashMap和hashTable的区别。
 5：hashCode()和equals()123456。
-7：js查看object（json）的代码（怎么写就行了）
+7：js查看object（json）的代码（怎么写就行了）123qwe
